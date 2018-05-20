@@ -1,3 +1,4 @@
 # Hello-GitHub
-this is my change<br>
-this is my second time chang the file
+this is my first change.<br>
+this is my second change.
+This is my third change.
